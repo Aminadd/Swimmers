@@ -1,0 +1,20 @@
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\bin\Debug\Zadatak ispit1 plivaci.exe.config
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\bin\Debug\Zadatak ispit1 plivaci.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\bin\Debug\Zadatak ispit1 plivaci.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak_ispit1_plivaci.Form1.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak_ispit1_plivaci.Form2.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak_ispit1_plivaci.Properties.Resources.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.csproj.GenerateResource.Cache
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\Zadatak ispit1 plivaci\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.csprojResolveAssemblyReference.cache
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\bin\Debug\Zadatak ispit1 plivaci.exe.config
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.exe
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.pdb
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\bin\Debug\Zadatak ispit1 plivaci.exe
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\bin\Debug\Zadatak ispit1 plivaci.pdb
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.csprojResolveAssemblyReference.cache
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak_ispit1_plivaci.Form1.resources
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak_ispit1_plivaci.Form2.resources
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak_ispit1_plivaci.Properties.Resources.resources
+C:\Users\Dzeki\Desktop\Zadatak ispit1 plivaci - copy\Zadatak ispit1 plivaci\obj\Debug\Zadatak ispit1 plivaci.csproj.GenerateResource.Cache
